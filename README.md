@@ -1,4 +1,4 @@
-# webscraper_test
+# webscrape_test
 
 Description: Test for automating data collection for data pipeline.
 
